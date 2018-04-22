@@ -98,7 +98,7 @@ font_heading:          Roboto Slab, Helvetica, Arial, sans-serif
 # disqus:                <ooioo>
 
 # Setting a tinyletter username will enable the newsletter subscription box.
-# tinyletter:            <tinyletter_username>
+tinyletter:            <infomail>
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------
@@ -144,7 +144,7 @@ hydejack:
 
   # When using Google Analytics, set to `true` to display a cookie notice banner.
   # When enabled, no user-related data will be stored until the user gives consent.
-  cookies_banner:      false
+  cookies_banner:      true
 
 
 # Collections
@@ -199,7 +199,7 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack-pro
 # remote_theme: qwtel/hydejack@gem
 
 # SEO Tag
