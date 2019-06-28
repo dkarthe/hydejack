@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   http://techbyte.me
+url:                   https://docs.kd.ax
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,18 +22,17 @@ baseurl:               '/'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 TechByte
+title:                 KD Docs
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
+  Get the latest KD documentation for end users, developers and IT professionals: API reference, code examples, technical documentation and more.
   Open `_config.yml` to edit this text.
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
+  Get the latest KD documentation for end users.
   Open `_config.yml` to edit this text.
 
 # A list of keywords for your blog
@@ -45,8 +44,8 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <KD> <lastname>
+  email:               <me@kd.ax>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
